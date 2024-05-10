@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\lenovo\Documents\PaginaCrudAurus" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="05/10/2024 17:47:24" />
+    <file relUrl="MantenedorTareaCiudadano/EliminarTarea.aspx" publishTime="05/10/2024 17:53:32" />
+    <file relUrl="MantenedorTareaCiudadano/ListarTareaCiudadano.aspx" publishTime="05/10/2024 17:53:51" />
+    <file relUrl="js/bootstrap.bundle.min.js" publishTime="05/09/2024 13:33:45" />
+    <file relUrl="MatenedorCiudadano/AgregarEditarCiudadano.aspx" publishTime="05/10/2024 17:54:06" />
+    <file relUrl="bin/SistemaEastview.pdb" publishTime="05/10/2024 17:54:41" />
+    <file relUrl="VistaTarea/VerTareas.aspx" publishTime="05/10/2024 15:32:08" />
+    <file relUrl="MantenedorTareaCiudadano/AgregarEditarTarea.aspx" publishTime="05/10/2024 17:53:18" />
+    <file relUrl="bin/SistemaEastview.dll" publishTime="05/10/2024 17:54:42" />
+    <file relUrl="MatenedorCiudadano/EliminarCiudadano.aspx" publishTime="05/10/2024 17:54:18" />
+    <file relUrl="css/index.css" publishTime="05/09/2024 13:39:26" />
+    <file relUrl="js/jquery-1.11.0.min.js" publishTime="05/09/2024 13:33:45" />
+    <file relUrl="css/bootstrap.min.css" publishTime="05/09/2024 13:32:45" />
+    <file relUrl="js/index.js" publishTime="05/09/2024 13:42:14" />
+    <file relUrl="Default.aspx" publishTime="05/10/2024 17:52:37" />
+    <file relUrl="MatenedorCiudadano/ListaCiudadano.aspx" publishTime="05/10/2024 17:54:32" />
+    <file relUrl="Index.aspx" publishTime="05/10/2024 01:09:30" />
+  </publishProfile>
+</publishData>

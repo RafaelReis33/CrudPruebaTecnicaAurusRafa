@@ -1,0 +1,5 @@
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\PruebaTecnicaRafa\SistemaEastview\SistemaEastview\bin\SistemaEastview.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\PruebaTecnicaRafa\SistemaEastview\SistemaEastview\bin\SistemaEastview.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\PruebaTecnicaRafa\SistemaEastview\SistemaEastview\obj\Debug\SistemaEastview.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\PruebaTecnicaRafa\SistemaEastview\SistemaEastview\obj\Debug\SistemaEastview.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\PruebaTecnicaRafa\SistemaEastview\SistemaEastview\obj\Debug\SistemaEastview.csprojResolveAssemblyReference.cache
